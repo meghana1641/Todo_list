@@ -1,0 +1,44 @@
+.button
+{ 
+    text-align: center;
+    height: 45px;
+    width: 170px;
+    margin-left: 47%;
+    background-color: rgb(39, 230, 39);
+}
+.table2
+{
+    text-align: center;
+    margin-left: 0%;
+}
+.table{
+    text-align: center;
+}
+.heading1
+{
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    font-size: large;
+    font-size: 25px;
+}
+.delete
+{
+    text-align: center;
+
+    height: 45px;
+    width: 170px;
+    margin-left: 35%;
+    background-color: red;
+}
+.button{
+    margin-top: -5px;;
+}
+.box2{
+    border: 2px solid black;
+    width: 48%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(234, 230, 230);
+}
